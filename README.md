@@ -1,4 +1,4 @@
-# BUVA_Q_Homeassistant
+# BUVA QStream for Homeassistant
 Homeassistant package for BUVA Q-stream ventilation systems
 
 Reverse engineerd, with the lovely help of some AI codegeneration.
