@@ -1,5 +1,5 @@
 {
-    "name": "Qstream Ventilation Control",
+    "name": "Buva Qstream Ventilation Control",
     "description": "A Home Assistant component to control a Qstream ventilation system.",
     "country": "us",
     "domains": ["python_script"],
