@@ -1,0 +1,9 @@
+{
+    "name": "Qstream Ventilation Control",
+    "description": "A Home Assistant component to control a Qstream ventilation system.",
+    "country": "us",
+    "domains": ["python_script"],
+    "homeassistant": "0.110.0",
+    "iot_class": "local_polling"
+  }
+  

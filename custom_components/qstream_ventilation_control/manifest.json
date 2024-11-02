@@ -1,0 +1,9 @@
+{
+    "domain": "qstream_ventilation_control",
+    "name": "Qstream Ventilation Control",
+    "version": "0.0.1",
+    "documentation": "https://github.com/yourusername/qstream_ventilation_control",
+    "dependencies": [],
+    "codeowners": ["Omemanti"],
+    "requirements": []
+  }
