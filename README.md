@@ -1,6 +1,8 @@
 # BUVA_Q_Homeassistant
 Homeassistant package for BUVA Q-stream ventilation systems
 
+Reverse engineerd, with the lovely help of some AI codegeneration.
+
 # Qstream Ventilation Control
 
 This component allows you to control a Qstream ventilation system via Home Assistant by configuring the IP address, timer duration, and fan speed.
