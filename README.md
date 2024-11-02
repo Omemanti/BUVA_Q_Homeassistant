@@ -1,3 +1,4 @@
+Chatgpt helped, so there is some stuff in there that seems redundant or just plain halucination ill still need to have a better look later.
 This one works for me, but still needs cleaing up and some checking
 
 # BUVA Q-stream for Homeassistant
