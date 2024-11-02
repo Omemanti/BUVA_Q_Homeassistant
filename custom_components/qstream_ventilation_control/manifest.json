@@ -1,10 +1,11 @@
 {
     "domain": "Buva qstream_ventilation_control",
-    "name": "Buva Qstream Ventilation Control",
+    "name": "Buva stream Ventilation Control",
     "version": "0.0.1",
-    "documentation": "https://github.com/Omemanti/BUVA_Q_Homeassistant",
+    "documentation": "https://github.com/yourusername/qstream_ventilation_control",
     "dependencies": [],
     "codeowners": ["Omemanti"],
-    "requirements": [],
-    "iot_class": "local_push"
+    "requirements": []
   }
+
+  
