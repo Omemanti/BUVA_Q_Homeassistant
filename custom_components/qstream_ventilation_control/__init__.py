@@ -34,4 +34,4 @@ def control_ventilation(ip_address, timer, percentage):
         "Content-Type": "application/json; charset=UTF-8"
     }
 
-    requests.post(url, headers=headers, data=json.
+    requests.post(url, headers=headers, data=json.dumps(payload))
