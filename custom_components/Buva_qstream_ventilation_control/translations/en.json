@@ -1,6 +1,6 @@
 {
     "component.qstream_ventilation_control": {
-      "name": "Qstream Ventilation Control",
+      "name": "Buva Qstream Ventilation Control",
       "description": "Control your Qstream ventilation system via Home Assistant."
     }
   }
