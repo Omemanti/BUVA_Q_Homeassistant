@@ -9,7 +9,7 @@ This component allows you to control a Qstream ventilation system via Home Assis
 
 ## Installation
 
-1. Add this repository as a custom repository in HACS.
+1. Add this repository as a custom repository in HACS.M		
 2. Search for "Qstream Ventilation Control" in HACS and install it.
 3. Restart Home Assistant.
 
@@ -19,8 +19,9 @@ This component allows you to control a Qstream ventilation system via Home Assis
 
 Add the following to configuration.yaml
 
-Buva_qstream_ventilation_control:
-    ip_address: "xxx.xxx.x.x" #your IP
+`Buva_qstream_ventilation_control:
+
+  ip_address: "xxx.xxx.x.x" #your IP`
 
 Add an action to to you automation
 
