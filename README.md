@@ -15,17 +15,17 @@ This component allows you to control a Qstream ventilation system via Home Assis
 
 ## Usage
 
-Call the `qstream_ventilation_control.control_ventilation` service, providing
+(It was done quick and dirty, but worked, you want to beautify it, feel free to help)
 
-- `ip_address`: IP address of the ventilation system.
-- `timer`: Duration in minutes.
-- `percentage`: Fan speed percentage.
+Add the following to configuration.yaml
 
-Add following to configuration.yaml
+Buva_qstream_ventilation_control:
+  ip_address: "xxx.xxx.x.x" #your IP
 
-qstream_ventilation_control:
-  ip_address: "192.168.2.12"
-  default_timer: 60
-  default_percentage: 70
+
+Add an action to to you automation
+
+
+
 
 

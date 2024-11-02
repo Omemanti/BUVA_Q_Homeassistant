@@ -1,9 +1,6 @@
 control_ventilation:
   description: "Control the Qstream ventilation system."
   fields:
-    ip_address:
-      description: "IP address of the Qstream ventilation system."
-      example: "192.168.2.12"
     timer:
       description: "Duration in minutes for the timer."
       example: 60
