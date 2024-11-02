@@ -27,4 +27,5 @@ Add an action to to you automation
 => Edit in yaml
 add percentage and timer
 
-![image](https://github.com/user-attachments/assets/a95b1527-5677-49ab-9d27-e6596fcee037)
+![image](https://github.com/user-attachments/assets/67a5fe67-7e32-4f00-9382-3f480d41556a)
+
