@@ -1,3 +1,5 @@
+This one works for me, but still needs cleaing up and some checking
+
 # BUVA Q-stream for Homeassistant
 Homeassistant package for BUVA Q-stream ventilation systems
 
