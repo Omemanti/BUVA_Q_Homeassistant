@@ -23,7 +23,7 @@ This component allows you to control a Qstream ventilation system via Home Assis
 1. Add the following to configuration.yaml
 ```
 Buva_qstream_ventilation_control:
-  ip_address: "xxx.xxx.x.x" #your IP
+  ip_address: "xxx.xxx.xxx.xxx" #your IP
 ```
 2. Add an action to to your automation
 
