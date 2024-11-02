@@ -1,5 +1,5 @@
 {
-    "domain": "Buva qstream_ventilation_control",
+    "domain": "Buva_qstream_ventilation_control",
     "name": "Buva stream Ventilation Control",
     "version": "0.0.1",
     "documentation": "https://github.com/yourusername/qstream_ventilation_control",
