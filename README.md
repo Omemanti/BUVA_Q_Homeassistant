@@ -22,10 +22,9 @@ Add the following to configuration.yaml
 Buva_qstream_ventilation_control:
     ip_address: "xxx.xxx.x.x" #your IP
 
-
 Add an action to to you automation
 
+=> Edit in yaml
+add percentage and timer
 
-
-
-
+![image](https://github.com/user-attachments/assets/a95b1527-5677-49ab-9d27-e6596fcee037)
