@@ -4,7 +4,7 @@ def setup(hass, config):
     """Set up the Qstream Ventilation Control component."""
 
     # Read configuration values from configuration.yaml
-    ip_address = config[DOMAIN].get("ip_address", "192.168.2.12")
+    ip_address = config[DOMAIN].get("ip_address", "192.168.1.1")
     default_timer = config[DOMAIN].get("default_timer", 60)
     default_percentage = config[DOMAIN].get("default_percentage", 70)
 
