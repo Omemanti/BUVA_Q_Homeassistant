@@ -1,4 +1,4 @@
-DOMAIN = "qstream_ventilation_control"
+DOMAIN = "Buva qstream_ventilation_control"
 
 def setup(hass, config):
     """Set up the Qstream Ventilation Control component."""
